@@ -7,15 +7,15 @@
 
 - 🎓 &nbsp; Cursando Analise e Desenvolvimento de Sistemas.
 - 🌱 &nbsp; Entusiasta em Cloud Computing e Desenvolvimento Backend .
-- - 💼 &nbsp;  Back-end developer
+- 💼 &nbsp; Back-end developer
 - ✍️ &nbsp; Assistir animes series e podcasts de tecnologia 
-- ☕ &nbsp;  Acredito que uma xícara de café perfeita pode ser a solução definitiva para o estresse. 
+- ☕ &nbsp; Acredito que uma xícara de café perfeita pode ser a solução definitiva para o estresse. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | NodeJs | C | C# | C++ | .Net |  | HTML | CSS | JavaScript 
 - ☁️ Azure | Docker | Serverless 
-- 🛢 &nbsp;  SQLServer| MongoDB | MySQL | Acess | Xampp  Postegress
+- 🛢 &nbsp;  SQLServer| MongoDB | MySQL | Acess | Xampp | Postegress
 - 🔧 &nbsp; Visual stutio code | PyCharm | Visual Studio  | Eclipse | Git 
 - 🖥 &nbsp; GIMP 
 
