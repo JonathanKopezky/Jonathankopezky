@@ -13,9 +13,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | NodeJs | C | C# | C++ | .Net |  | HTML | CSS | JavaScript 
-- ☁️ Azure | Docker | Serverless 
-- 🛢 &nbsp;  SQLServer| MongoDB | MySQL | Acess | Xampp | Postegress
+- 💻 &nbsp; Python | NodeJs | C | C# | C++ | .Net | HTML | CSS | JavaScript 
+- ☁️ &nbsp; Azure | Docker | Serverless 
+- 🛢 &nbsp;  Microsoft SQL Server | MongoDB | MySQL | Acess | Xampp | Postegress
 - 🔧 &nbsp; Visual stutio code | PyCharm | Visual Studio  | Eclipse | Git 
 - 🖥 &nbsp; GIMP 
 
