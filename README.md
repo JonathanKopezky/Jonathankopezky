@@ -4,10 +4,10 @@
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="410"/>
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
 <h3> 👨🏻‍💻 Sobre mim </h3>
- 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
 - 🎓 &nbsp; Cursando Analise e Desenvolvimento de Sistemas.
 - 🌱 &nbsp; Entusiasta em Cloud Computing e Desenvolvimento Backend .
+- - 💼 &nbsp;  Back-end developer
 - ✍️ &nbsp; Assistir animes series e podcasts de tecnologia 
 - ☕ &nbsp;  Acredito que uma xícara de café perfeita pode ser a solução definitiva para o estresse. 
 
@@ -29,7 +29,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanKopezky&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/JonathanKopezky/github-readme-stats)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Conecte-se comigo </h3>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/jonathan-kopezky-666a4b72/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
