@@ -3,7 +3,7 @@
 <h2> Olá! Eu sou Jonathan Kopezky . <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="410"/>
 <!-- https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif -->
-<h3> 👨🏻‍💻 Sobre mim </h3>
+<h3> 🧑🏾‍💻 Sobre mim </h3>
 
 - 🎓 &nbsp; Cursando Analise e Desenvolvimento de Sistemas.
 - 🌱 &nbsp; Entusiasta em Cloud Computing e Desenvolvimento Backend .
