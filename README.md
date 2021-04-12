@@ -15,8 +15,8 @@
 
 - 💻 &nbsp; Python | NodeJs | C | C# | C++ | .Net | HTML | CSS | JavaScript 
 - ☁️ &nbsp; Azure | Docker | Serverless 
-- 🛢 &nbsp;  Microsoft SQL Server | MongoDB | MySQL | Acess | Xampp | Postegress
-- 🔧 &nbsp; Visual stutio code | PyCharm | Visual Studio  | Eclipse | Git 
+- 🛢 &nbsp; Microsoft SQL Server | MongoDB | MySQL | Acess | Xampp | Postegress
+- 🔧 &nbsp;Visual stutio code | PyCharm | Visual Studio  | Eclipse | Git 
 - 🖥 &nbsp; GIMP 
 
 <br>
